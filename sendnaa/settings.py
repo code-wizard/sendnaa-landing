@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=yu&iu!t_nho-cbyn=92#m_x+r6g6^#!-$^@+v071rqsl#1)74
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['143.198.76.82', 'sendnaa.com', 'sendnaa.app']
+ALLOWED_HOSTS = ['143.198.76.82', 'sendnaa.com', 'sendnaa.app', 'landing.sendnaa.app']
 
 
 # Application definition
